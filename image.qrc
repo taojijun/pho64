@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/10.png</file>
+        <file>image/11.png</file>
+        <file>image/100.png</file>
+        <file>image/321500.jpg</file>
+        <file>image/0000.png</file>
+        <file>image/yushua1.png</file>
+        <file>image/jietu1.png</file>
+        <file>image/jietu2.png</file>
+        <file>image/yushua2.png</file>
+        <file>image/ff.png</file>
+        <file>image/fff.png</file>
+        <file>image/dd.png</file>
+        <file>image/ddd.png</file>
+        <file>image/jj.png</file>
+        <file>image/jjj.png</file>
+        <file>image/lanseshangwukejiganbeijing-32368968_1.jpg</file>
+        <file>image/77.png</file>
+        <file>image/1010.png</file>
+        <file>image/1111.png</file>
+        <file>image/lx.png</file>
+        <file>image/lx2.png</file>
+    </qresource>
+</RCC>
